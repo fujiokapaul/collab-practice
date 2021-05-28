@@ -21,6 +21,6 @@ GPL General Public License
 ## Contact
 None
 
-## Css
+## CSS
 [Look at my CSS](./css/styles.css)
 
